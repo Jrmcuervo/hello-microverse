@@ -28,10 +28,10 @@
 - [📝 License](#license)
 
 
-# 📖 [My portfolio] <a name="about-project"></a>
+# 📖 [hello microverse] <a name="about-project"></a>
 
 
-**[My portfolio]** This is a project to get familiar with github and do the basic configurations
+**[hello microverse]** This is a project to get familiar with github and do the basic configurations
 
 ## 🛠 Built With <a name="built-with"></a>
 
